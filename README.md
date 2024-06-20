@@ -8,7 +8,7 @@ This notebook has been inspired by a Medium article and a [paper](https://arxiv.
 * it seems to be more effective than other tests for detecting oscillatory signals.
 
 <p align='center'>
-<img src='https://github.com/msikorski93/New-Coefficient-of-Correlation/assets/45270023/da21e292-cbd6-4af5-b7d8-7d5a14c699d8' width='400'/>
+<img src='https://github.com/msikorski93/A-New-Coefficient-of-Correlation/assets/45270023/dc9e8a05-6c2e-4b3f-9a44-1caa17c170fa' width='400'/>
 </p>
 
 This example reveals the new correlation $\xi$ does a much better job with identifying the data's trend and how it significantly outperforms the remaining common coefficients.
